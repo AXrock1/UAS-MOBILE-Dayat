@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">MotorsRecyclerView</string>
+
+    <string name="heroes_name">Nama Motor</string>
+    <string name="description">Deskripsi</string>
+    <string name="motor_name">sports</string>
+    <string name="img">img</string>
+    <string name="Motor_desc">description</string>
+    <string name="grid">grid</string>
+    <string name="list">list</string>
+    <string name="Artis_description">description</string>
+    <string-array name="data_name">
+        <item>Cbr 1000 fire</item>
+        <item>Ducati Monster</item>
+        <item>ducati penigale</item>
+        <item>gsxr1000</item>
+        <item>Kawazaki zx6r</item>
+        <item>Suzuki Guzi</item>
+        <item>Suzuki Hayabusa</item>
+        <item>Yamaha r1</item>
+        <item>Yamaha yzf6</item>
+        <item>Z10r</item>
+        <item>Harley Sportster</item>
+        <item>harley sportster</item>
+        <item>ducati Monster</item>
+        <item>Mv agusta</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Sebuah superbike dari Honda yang dikenal karena kombinasi performa tinggi dan teknologi canggih, CBR1000RR menawarkan kecepatan dan kelincahan yang luar biasa. Desain aerodinamisnya menambah nilai estetika pada motor sport ini..</item>
+        <item>Monster adalah model ikonik dari Ducati yang terkenal dengan gaya yang kasar dan agresif. Motor naked ini menawarkan perpaduan unik antara kekuatan mesin Ducati dan desain yang mencolok, memberikan pengalaman berkendara yang intens..</item>
+        <item>Sebagai bagian dari keluarga GSX-R, motor sport ini dari Suzuki menonjolkan performa tinggi, kehandalan, dan desain yang aerodinamis. GSX-R1000 terkenal sebagai motor balap yang dapat digunakan di jalan raya.</item>
+        <item>gsxr 1000 adalah sportbike dari Kawasaki yang menawarkan kombinasi daya yang kuat dan manuverabilitas yang baik. Dengan desain yang agresif dan teknologi canggih, </item>
+        <item>ZX-6R adalah sportbike dari Kawasaki yang menawarkan kombinasi daya yang kuat dan manuverabilitas yang baik. Dengan desain yang agresif dan teknologi canggih, ZX-6R menjadi pilihan bagi pengendara yang menginginkan sensasi berkendara yang intens..</item>
+        <item>V-Strom 1000, sering disebut sebagai Suzuki Guzi (mungkin terjadi kesalahan penulisan), adalah motor adventure touring dari Suzuki. Dikenal karena kenyamanan berkendara jarak jauh dan performa tangguhnya, motor ini cocok untuk petualangan di berbagai medan..</item>
+        <item>Hayabusa adalah motor sport touring dari Suzuki yang terkenal dengan kecepatan maksimumnya yang luar biasa. Dengan desain aerodinamis yang ikonik, Hayabusa adalah pilihan bagi mereka yang mencari kombinasi kenyamanan dan kecepatan.</item>
+        <item>YZF-R1 adalah superbike andalan dari Yamaha, menawarkan kombinasi performa tinggi dan teknologi terkini. Dengan desain yang agresif dan aerodinamis, motor ini dirancang untuk memberikan pengalaman berkendara yang mendebarkan di lintasan atau jalan raya..</item>
+        <item>YZF-R6 adalah versi yang lebih ringan dan bertenaga dari YZF-R1. Dirancang untuk pengendara yang menginginkan performa tinggi dalam kemasan yang lebih kompak, R6 menawarkan manuverabilitas yang luar biasa dan responsif.</item>
+        <item>z 10 mungkin disebut sebagai Suzuki Z10 (mungkin terjadi kesalahan penulisan), adalah sportbike dari Suzuki yang menawarkan performa tinggi dan desain yang agresif. Dikenal karena kehandalannya, motor ini cocok untuk pengendara yang menginginkan kombinasi antara kecepatan dan kenyamanan..</item>
+        <item>Haryley sportster adalah sportbike dari Kawasaki yang menawarkan kombinasi daya yang kuat dan manuverabilitas yang baik. Dengan desain yang agresif dan teknologi canggih, </item>
+        <item>Ducati Monster adalah sportbike dari Kawasaki yang menawarkan kombinasi daya yang kuat dan manuverabilitas yang baik. Dengan desain yang agresif dan teknologi canggih, .</item>
+        <item>Ducati Peninggale adalah sportbike dari Kawasaki yang menawarkan kombinasi daya yang kuat dan manuverabilitas yang baik. Dengan desain yang agresif dan teknologi canggih, </item>
+        <item>MV AGUSTA adalah sportbike dari Kawasaki yang menawarkan kombinasi daya yang kuat dan manuverabilitas yang baik. Dengan desain yang agresif dan teknologi canggih, .</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/cbr1000fire</item>
+        <item>@drawable/ducatimonster</item>
+        <item>@drawable/ducatipanigale</item>
+        <item>@drawable/gsxr1000</item>
+        <item>@drawable/kawasakizx6r</item>
+        <item>@drawable/suzukiguzi</item>
+        <item>@drawable/suzukihayabusa</item>
+        <item>@drawable/yamahar1</item>
+        <item>@drawable/yamahayzfr6</item>
+        <item>@drawable/z10</item>
+        <item>@drawable/harleysporter</item>
+        <item>@drawable/ducatimonster</item>
+        <item>@drawable/ducatipanigale</item>
+        <item>@drawable/mvagustaf4rr</item>
+    </integer-array>
+
+    <string-array name="data_sound">
+        <item>m1</item>
+        <item>m2</item>
+        <item>m3</item>
+        <item>m4</item>
+        <item>m5</item>
+        <item>m6</item>
+        <item>m7</item>
+        <item>m8</item>
+        <item>m5</item>
+        <item>m3</item>
+        <item>m1</item>
+        <item>harley</item>
+        <item>m3</item>
+        <item>m9</item>
+    </string-array>
+
+</resources>
