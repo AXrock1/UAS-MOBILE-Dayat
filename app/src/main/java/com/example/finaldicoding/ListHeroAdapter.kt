@@ -17,7 +17,7 @@ class ListHeroAdapter(private val context: Context, private val listHero: ArrayL
 
     init {
 
-        mediaPlayer = MediaPlayer.create(context, R.raw.chicken)
+        mediaPlayer = MediaPlayer.create(context, R.raw.harley)
     }
 
     fun setOnItemClickCallback(onItemClickCallback: OnItemClickCallback) {
